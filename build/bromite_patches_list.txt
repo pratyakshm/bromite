@@ -159,3 +159,4 @@ Fix-favicons-fallback-search.patch
 Enable-app-overflow-menu-icons-by-default.patch
 Add-menu-item-to-bookmark-all-tabs.patch
 Automated-domain-substitution.patch
+Allow-progressive-web-apps-PWAs.patch
