@@ -1,4 +1,6 @@
 # Bromite - Take back your browser
+## This repository is a fork from the [original Bromite repository ](https://github.com/bromite/bromite). This is my own custom flavor of Bromite, avoid usage.
+
 
 <img src="https://www.bromite.org/release.svg" alt="current Bromite release" title="current Bromite release" /> <img src="https://www.bromite.org/license.svg" alt="GNU GPL v3" title="GNU VPL v3" />
 
